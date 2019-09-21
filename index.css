@@ -17,7 +17,7 @@ body {
   grid-gap: 25px;
 }
 
-.textfield {
+.textfield, .acces {
   padding: 15px;
   border-radius: 2px;
   border: 1px solid var(--light-gray);
